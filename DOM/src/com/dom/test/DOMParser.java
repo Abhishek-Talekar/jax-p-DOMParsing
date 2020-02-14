@@ -17,7 +17,6 @@ public class DOMParser {
 		DocumentBuilder builder = builderFactory.newDocumentBuilder();
 		Document document = builder.parse(new File("C:\\Users\\abhi\\git\\jax-p-DOMParsing\\DOM\\Resources\\po.xml"));
 		String node = document.getFirstChild().getNodeName();
-		//String node =document.getFirstChild().getLocalName();
 		System.out.println(node);
 	}
 }

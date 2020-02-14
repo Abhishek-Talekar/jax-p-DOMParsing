@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product>
+		<product-code>123er</product-code>
+		<product-quantity>23</product-quantity>
+	</product>
+	<product>
+		<product-code>rt567</product-code>
+		<product-quantity>39</product-quantity>
+	</product>
+	<shipping-address address-type="permenant">
+		<address-line1>High Court</address-line1>
+		<address-line2>Next lane</address-line2>
+		<city>Nasik</city>
+		<state>Maharashtra</state>
+		<zip>422009</zip>
+	</shipping-address>
+</products>
